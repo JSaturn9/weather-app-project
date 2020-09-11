@@ -21,6 +21,10 @@ h5 {
   font-weight: light;
   text-align: center;
 }
+p {
+  font-family:"Oswald", sans-serif;
+  text-align: center;
+}
 
 .card {
   background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
